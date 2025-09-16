@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+infra/node_modules/
+infra/cdk.out/
+.pytest_cache/
+*.pyc
