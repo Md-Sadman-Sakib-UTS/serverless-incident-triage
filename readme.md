@@ -369,4 +369,4 @@ aws s3 rm "s3://<ArtifactsBucketName>/data/" --recursive
 
 ---
 
-That’s it. You now have a serverless incident-triage pipeline with a manual approval step, SNS email notifications, EMF metrics, and a small dashboard — all running in `ap-southeast-2`.
+
